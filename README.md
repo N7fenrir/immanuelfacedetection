@@ -4,9 +4,12 @@ This is my master project. It uses a custom neural network trained on INIRA, WID
 
 ## Results:
 
-FPS of custom NN vs Yolov3 vs MTCNN
+Continious ROC for true and false positives of custom NN vs YOLOv3 vs MTCNN  by running evaluation from FDDB
+![contROC](./contROC-compare.png "Continious ROC")
+
+
+
+FPS of custom NN vs Yolov3 vs MTCNN for live detection
 ![FPS](./blank.png "FPS")
 
 
-Continious ROC for true and false positives of custom NN vs YOLOv3 vs MTCNN
-![contROC](./contROC-compare.png "Continious ROC")
